@@ -1,0 +1,9 @@
+Basic commands of git...
+clone
+add
+status
+commit
+push
+....
+This class is about forking 
+forking means cloning of other's repostories in our local github!!!
